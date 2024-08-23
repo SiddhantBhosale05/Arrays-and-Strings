@@ -10,14 +10,18 @@ int main() {
     int max = marks[0];
     int min = marks[0];
 
-    for (int i = 1; i < 5; i++) {
-        if (max < marks[i]) {
+    for (int i = 1; i < 5; i++) 
+    {
+        if (max < marks[i])
+        {
             max = marks[i];
         }
     }
 
-    for (int j = 1; j < 5; j++) {
-        if (min > marks[j]) {
+    for (int j = 1; j < 5; j++) 
+    {
+        if (min > marks[j]) 
+        {
             min = marks[j];
         }
     }
