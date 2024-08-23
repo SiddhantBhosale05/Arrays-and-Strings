@@ -12,13 +12,16 @@ int main() {
     int sum = 0;
     int avg;
     
-        for (int i = 0; i < n; i++) {
-        if (key == marks[i]) {
+        for (int i = 0; i < n; i++) 
+        {
+        if (key == marks[i]) 
+        {
             cout << "Key found at location: " << i << endl;
             break;
         }
     }
-    for (int j = 0; j < n; j++) {
+    for (int j = 0; j < n; j++) 
+    {
         sum += marks[j];
     }
     
