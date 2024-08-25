@@ -8,9 +8,7 @@ To study use of and to implement arrays and strings in C++.
 ## Theory
 
 ### Arrays in C++
-An array is a data structure of elements with same data type stored at contiguous memory locations. 
-![image](https://github/images.app.goo.gl/o7YGBEiosDpRrsMn8a2d5f40e1371)
-
+An array is a data structure of elements with same data type stored at contiguous memory locations.Arrays are used to store multiple values in a single variable, making it easier to manage large sets of data.
 
 **Features :**
 - Fixed size: The size of an array after being defined cannot be changed later.
@@ -18,9 +16,9 @@ An array is a data structure of elements with same data type stored at contiguou
 - Index-based: Array elements can be accessed using thier indices.
 
 **Example:**
-An array of 5 integers
+An array of 4 integers
 ```cpp
-int a[5]; 
+int a[4]; 
 ```
 <br>
 
