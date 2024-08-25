@@ -56,7 +56,7 @@ string str1 = "Hello";
 
 4. **Reverse the String:**
    - Loop from the end of the string to the beginning:
-     - Append each character to `revstr`.
+   - Append each character to `revstr`.
 
 5. **Compare the Strings:**
    - Compare the original string `a` with the reversed `revstr`.
@@ -85,7 +85,7 @@ string str1 = "Hello";
 ## Search in an Array and Sum and Average
 
 1. **Initialization:**
-   - Define an integer variable `n` and set it to 6 (the size of the array).
+   - Define an integer variable `n` and    set it to 6 (the size of the array).
    - Initialize the array marks with values {100, 200, 300, 400, 500, 600}.
    - Define an integer variable `key` with the value 400.
    - Initialize integer variables `sum` to 0 and `avg` to store the sum and average, respectively.
