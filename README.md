@@ -9,7 +9,7 @@ To study use of and to implement arrays and strings in C++.
 
 ### Arrays in C++
 An array is a data structure of elements with same data type stored at contiguous memory locations. 
-![image](https://images.app.goo.gl/o7YGBEiosDpRrsMn8a2d5f40e1371)
+![image](https://github/images.app.goo.gl/o7YGBEiosDpRrsMn8a2d5f40e1371)
 
 
 **Features :**
