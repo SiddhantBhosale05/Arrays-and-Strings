@@ -87,23 +87,23 @@ string str1 = "Hello";
 ## Search in an Array and Sum and Average
 
 1. **Initialization:**
-	•	Define an integer variable 'n' and set it to 6 (the size of the array).
-	•	Initialize the array marks with values {100, 200, 300, 400, 500, 600}.
-	•	Define an integer variable 'key' with the value 400.
-	•	Initialize integer variables 'sum' to 0 and 'avg' to store the sum and average, respectively.
+   - Define an integer variable 'n' and set it to 6 (the size of the array).
+   - Initialize the array marks with values {100, 200, 300, 400, 500, 600}.
+   - Define an integer variable 'key' with the value 400.
+   - Initialize integer variables 'sum' to 0 and 'avg' to store the sum and average, respectively.
 
 2.	**Search for the Key in the Array:**
-	•	Loop through the array marks from index '0' to 'n-1'.
-	•	Compare each element 'marks[i]' with the 'key'.
-	•	If 'marks[i]' is equal to the key, print the message “Key found at location: i” and break the loop.
+   - Loop through the array marks from index '0' to 'n-1'.
+   - Compare each element 'marks[i]' with the 'key'.
+   - If 'marks[i]' is equal to the key, print the message “Key found at location: i” and break the loop.
 
 3.	**Calculate the Sum of the Array Elements:**
-	•	Loop through the array marks again from index '0' to 'n-1'.
-	•	Add each element 'marks[j]' to the sum.
+   - Loop through the array marks again from index '0' to 'n-1'.
+   - Add each element 'marks[j]' to the sum.
 
 4.	**Calculate the Average:**
-	•	Divide the sum by 'n' to get the average and store it in the variable 'avg'.
+   - Divide the sum by 'n' to get the average and store it in the variable 'avg'.
 
 5.	**Output the Results:**
-	•	Print the sum of all the elements.
-	•	Print the average of all the elements.
+   - Print the sum of all the elements.
+   - Print the average of all the elements.
