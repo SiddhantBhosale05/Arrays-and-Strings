@@ -67,7 +67,7 @@ string str1 = "Hello";
    - Print whether the string is a palindrome or not based on the comparison.
 
 
-## Printing Array Elements
+### Printing Array Elements
 
 1. **Initialize the Array:**
    - Define an array `x` as  `{19, 10, 8, 6, 8}`.
@@ -82,7 +82,7 @@ string str1 = "Hello";
 
 
 
-## Search in an Array and Sum and Average
+### Search in an Array and Sum and Average
 
 1. **Initialization:**
    - Define an integer variable `n` and    set it to 6 (the size of the array).
