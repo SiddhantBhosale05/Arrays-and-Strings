@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Arrays and Strings to print the Maximum and Minimum Number in Array
+//Aim:Implementation of Arrays and Strings to print the Maximum and Minimum Number in Array
 
 #include <iostream>
 using namespace std;
