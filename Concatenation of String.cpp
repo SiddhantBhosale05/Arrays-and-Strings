@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implementation of Arrays and Strings to print the given Concatination  of Strings
+//Aim:Implementation of Arrays and Strings to print the given Concatenation of Strings
 
 #include <iostream>
 #include <string>
