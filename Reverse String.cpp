@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Arrays and Strings to print the given String in Reverse
+//Aim:Implementation of Arrays and Strings to print the given String in Reverse
 
 #include <iostream>
 #include <string>
