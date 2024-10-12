@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Arrays and Strings to find the Key Address in Array
+//Aim:Implementation of Arrays and Strings to find the Key Address in Array
 
 #include <iostream>
 using namespace std;
