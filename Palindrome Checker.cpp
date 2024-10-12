@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Arrays and Strings to check if given String is Pallindrome
+//Aim:Implementation of Arrays and Strings to check if given String is palindrome
 
 #include <iostream>
 #include <string>
@@ -29,9 +29,10 @@ int main(){
 
 
 /*Output:
-For Pallindrome-
+For Palindrome-
 Enter a string: bob
-It is a palindrome.
-For Not a Pallindrome-
+It is a Palindrome.
+
+For Not a Palindrome-
 Enter a string: hello
-It is not a palindrome*/
+It is not a Palindrome*/
