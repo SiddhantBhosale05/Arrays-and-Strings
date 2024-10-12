@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Arrays and Strings to print the given Array
+//Aim:Implementation of Arrays and Strings to print the given Array
 
 #include <iostream>
 using namespace std;
